@@ -21,5 +21,6 @@ public class Main {
         int sum=p.product(2,3);
         int sum1=p.product(2,3,4);
         double sum2=p.product(4.0,7.0);
+        System.out.print(sum+" "+sum1+" "+sum2);
     }
 }
